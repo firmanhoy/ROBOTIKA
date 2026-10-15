@@ -3,9 +3,9 @@
  * RPM Monitoring dan Kontrol PWM
  *********************************************************/
 
-#define BLYNK_TEMPLATE_ID "TMPL6jLq3Gllc"
-#define BLYNK_TEMPLATE_NAME "IMCLab Test"
-#define BLYNK_AUTH_TOKEN "IOoP8SZ492238hkGfL79XJZp6zbwmbO4"
+#define BLYNK_TEMPLATE_ID "TMPL6MgWJG5p9"
+#define BLYNK_TEMPLATE_NAME "IMCLab Blynk Controller"
+#define BLYNK_AUTH_TOKEN "nZIRtRhvGxI08jLL47gmPFF6aHUiow5B"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -15,8 +15,8 @@
 
 //Konfigurasi Wifi
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "nama_wifi";
-char pass[] = "password";
+char ssid[] = "ayam goreng";
+char pass[] = "12345678";
 
 
 // ============================================================
