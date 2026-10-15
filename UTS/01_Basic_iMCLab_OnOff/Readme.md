@@ -63,8 +63,11 @@ LED is off !!!
 ### B. Dokumentasi Pengujian
 *(Masukkan gambar screenshot Serial Monitor dan foto fisik Kit iMCLab Anda di bawah ini)*
 
+#### B.1. Serial Monitor
 ![Screenshot Serial Monitor](serial_monitor_on_off.png)
+#### B.2. IMCLab Motor OFF
 ![Foto Rangkaian Kit iMCLab Motor OFF](hardware_imclab_off.jpeg)
+#### B.3. IMCLab Motor ON
 ![Foto Rangkaian Kit iMCLab Motor ON](hardware_imclab_on.jpeg)
 
 ---
